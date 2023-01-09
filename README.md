@@ -1,0 +1,2 @@
+# AkelPad
+x64
