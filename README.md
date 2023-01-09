@@ -36,10 +36,18 @@ ToolBar
 
 
 Original source code and author can be found here:
+Many, Many Thanks to Author bellow !
+
 https://sourceforge.net/projects/akelpad/
-NOTE: The version from sourceforge can only be build maximum on VS 2005.
-Too bad that the author has not modified the version for VS 2022 Community.
+NOTE: The version from sourceforge can only be build maximum on VS 2005. Too bad that the author has not modified the version for VS 2022 Community.
 
 
-This version is made by https://github.com/ssrlive/akelpad
-And also is a more complete version with more Plugins ! 
+https://github.com/ssrlive/akelpad
+NOTE:  And also is a more complete version with more Plugins !
+
+
+https://github.com/Infocatcher/AkelPad_scripts
+NOTE:  Updated Scripts for Coder Plugin
+
+
+https://berofusion.blogspot.com
