@@ -14,7 +14,7 @@
 Most probably the best Notepad ever created !
 
 # This version is ONLY for x64 !
-It has been modified by me to be built on Visual Studio 2022 Community !
+It has been modified with code adaptation by me to be built on Visual Studio 2022 Community !
 
 
 # It includes:
