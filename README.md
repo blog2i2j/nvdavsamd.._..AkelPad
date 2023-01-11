@@ -55,12 +55,15 @@ XBrackets
 # Many, Many Thanks to Original AkelPad Author(s) bellow !
 
 https://sourceforge.net/projects/akelpad
+#
 https://akelpad.sourceforge.net/en/plugins.php
 NOTE: The version from sourceforge can only be build maximum on VS 2005.
 
+#
 https://github.com/Infocatcher/AkelPad_scripts
 NOTE:  Updated Scripts for Coder Plugin
 
+#
 https://berofusion.blogspot.com
 that will be me, at my blogspot !
 
