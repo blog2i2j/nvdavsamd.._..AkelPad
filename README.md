@@ -73,3 +73,6 @@ a. Visual Studio 2022 Community
 
 or watch the video here:
 https://youtu.be/7WAcyhMcp1Y
+
+# if you want to use Lite version of Toolbar, then navigate to
+akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
