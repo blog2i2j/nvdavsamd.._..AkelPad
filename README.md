@@ -1,53 +1,70 @@
-![coder](https://user-images.githubusercontent.com/122004809/211412968-cf4c821c-677b-48a9-b027-05840e05d6cc.jpg)
-![removeduplicatelines](https://user-images.githubusercontent.com/122004809/211413496-0ac56768-6f8c-43f2-a45c-5b29fc1fcd53.jpg)
-![scripts](https://user-images.githubusercontent.com/122004809/211413918-7133e206-3280-40c0-8cef-37aa595d3b0b.jpg)
-![searchandreplace](https://user-images.githubusercontent.com/122004809/211414171-3c4265da-ee0d-42ed-8048-4b0f49e1a801.jpg)
-![mutitabandwindows](https://user-images.githubusercontent.com/122004809/211414408-858b1bce-ba52-4dbe-a310-146cac80baf5.jpg)
-![encodings](https://user-images.githubusercontent.com/122004809/211414607-0d697cee-5e80-4cbb-ab5c-748e6ebcd6a9.jpg)
-![edit](https://user-images.githubusercontent.com/122004809/211414870-fb75ec78-7ccc-4c19-946e-d0a58ea7efb1.jpg)
-![format](https://user-images.githubusercontent.com/122004809/211415173-3ae628f5-a066-442d-a4b4-bf4dcc749058.jpg)
-
+![Clipboard01](https://user-images.githubusercontent.com/122004809/211796075-ab979206-621d-430e-ac61-1feceb38dddd.jpg)
+![Clipboard02](https://user-images.githubusercontent.com/122004809/211796078-3af9d667-badb-4daa-844f-18deabcc65e4.jpg)
+![Clipboard03](https://user-images.githubusercontent.com/122004809/211796085-897eebb7-392f-43e3-a070-f3719421699b.jpg)
+![Clipboard04](https://user-images.githubusercontent.com/122004809/211796091-c99196a4-45ba-4747-ad49-09b44d118948.jpg)
+![Clipboard05](https://user-images.githubusercontent.com/122004809/211796095-52211209-106b-4cda-b5b2-d9039d93664b.jpg)
+![Clipboard06](https://user-images.githubusercontent.com/122004809/211796100-a87004b3-8bfa-4bf0-a354-3914818827db.jpg)
+![Clipboard07](https://user-images.githubusercontent.com/122004809/211796105-e14eaaf2-dc23-4498-9f59-eddeffd5a86a.jpg)
+![Clipboard08](https://user-images.githubusercontent.com/122004809/211796108-d506db0a-a25a-4a92-8d9f-39bad5256b22.jpg)
+![Clipboard09](https://user-images.githubusercontent.com/122004809/211796111-b5c537dc-aca7-4f04-8988-14d43fbdf956.jpg)
+![Clipboard10](https://user-images.githubusercontent.com/122004809/211796117-6192c102-51a5-42d1-8c56-80d57b8a1f0d.jpg)
 
 
 # AkelPad
 Most probably the best Notepad ever created !
 
-This version is ONLY for x64 !
-It has been modified to be built on Visual Studio 2022 Community !
+# This version is ONLY for x64 !
+It has been modified by me to be built on Visual Studio 2022 Community !
 
-It includes:
+
+# It includes:
 Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
-And Plugins:
+# And Plugins:
+Clipboard
 Coder
+ContextMenu
 Exit
+Explorer
 Fonts
 Format
 FullScreen
+HexSel
 Hotkeys
 LineBoard
+Log
+Macros
+MinimizeToTray
+QSearch
+RecentFiles
+SaveFile
 Scripts
 Scroll
+Sessions
 SmartSel
+Sounds
 SpecialChar
 Speech
 Stats
+Templates
 ToolBar
+XBrackets
 
 
-Original source code and author can be found here:
-Many, Many Thanks to Author bellow !
+# Original source code and author can be found here:
+# Many, Many Thanks to Original AkelPad Author(s) bellow !
 
-https://sourceforge.net/projects/akelpad/
-NOTE: The version from sourceforge can only be build maximum on VS 2005. Too bad that the author has not modified the version for VS 2022 Community.
-
-
-https://github.com/ssrlive/akelpad
-NOTE:  And also is a more complete version with more Plugins !
-
+https://sourceforge.net/projects/akelpad
+# NOTE: The version from sourceforge can only be build maximum on VS 2005.
 
 https://github.com/Infocatcher/AkelPad_scripts
-NOTE:  Updated Scripts for Coder Plugin
-
+# NOTE:  Updated Scripts for Coder Plugin
 
 https://berofusion.blogspot.com
+# that will be me, at my blogspot !
+
+# How to build AkelPad
+a. Visual Studio 2022 Community
+
+or watch the video here:
+https://youtu.be/7WAcyhMcp1Y
