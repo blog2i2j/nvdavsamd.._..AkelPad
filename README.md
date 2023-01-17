@@ -47,13 +47,10 @@ It include Plugins:
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
 #
-Many, Many Thanks to Original AkelPad Author(s) bellow !
-
 AkelPad & Scripts Original source(s) code(s) and author(s) can be found here:
-
 https://sourceforge.net/projects/akelpad
-
 https://akelpad.sourceforge.net/en/plugins.php
+
 
 
 NOTE:  Updated Scripts for Coder Plugin
