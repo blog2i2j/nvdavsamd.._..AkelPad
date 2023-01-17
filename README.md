@@ -47,11 +47,11 @@ It include Plugins:
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
 
-# AkelPad & Scripts Original source(s) code(s) and author(s) can be found here:
-* https://sourceforge.net/projects/akelpad        (original AkelPad source code for Visual Studio 2005)
-* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code)
-* https://github.com/Infocatcher/AkelPad_scripts  (updated scripts for coder)
-* https://berofusion.blogspot.com                 (my blogspot)
+# AkelPad & Scripts Original source(s) code(s) and author(s):
+* https://sourceforge.net/projects/akelpad                 (original AkelPad source code for Visual Studio 2005)
+* https://akelpad.sourceforge.net/en/plugins.php           (plugins source code)
+* https://github.com/Infocatcher/AkelPad_scripts           (updated scripts for coder)
+* https://berofusion.blogspot.com                          (my blogspot)
 
 
 # How to build AkelPad
@@ -59,5 +59,5 @@ It include Plugins:
 * or watch the video here:    https://www.youtube.com/watch?v=7WAcyhMcp1Y
 
 
-# if you want to use Lite version of Toolbar, then navigate to
+# for the Lite version of Toolbar, then navigate to
 * akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
