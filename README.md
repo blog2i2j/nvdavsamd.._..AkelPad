@@ -94,5 +94,5 @@ Plugins:
 * or watch the video here:    https://www.youtube.com/watch?v=7WAcyhMcp1Y
 
 
-# for the Lite version of Toolbar, then navigate to
+# for the Lite version of Toolbar, navigate to
 * akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
