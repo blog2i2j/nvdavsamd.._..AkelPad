@@ -12,10 +12,10 @@
 
 # AkelPad
 Most probably the best Notepad ever created !
-AkelPad - is an open source editor for plain text. It is designed to be a small and fast.
 
 Features:
 
+* It is designed to be a small (less than 5.5 MB with plugins) fast and efficient.
 * Able to run completely portable - perfect tool for a flash drive
 * Able to search down (ahead) or up (back) in document or all opened files 
 * Auto indent mode
