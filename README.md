@@ -12,48 +12,47 @@
 
 # AkelPad
 Most probably the best Notepad ever created !
-
 This version is ONLY for x64 !
 It has been modified with code adaptation by me to be built on Visual Studio 2022 Community !
 
 
-It includes:
-Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
+It includes Plugins:
 
-And Plugins:
-Clipboard
-Coder
-ContextMenu
-Exit
-Explorer
-Fonts
-Format
-FullScreen
-HexSel
-Hotkeys
-LineBoard
-Log
-Macros
-MinimizeToTray
-QSearch
-RecentFiles
-SaveFile
-Scripts
-Scroll
-Sessions
-SmartSel
-Sounds
-SpecialChar
-Speech
-Stats
-Templates
-ToolBar
-XBrackets
+* Clipboard
+* Coder
+* ContextMenu
+* Exit
+* Explorer
+* Fonts
+* Format
+* FullScreen
+* HexSel
+* Hotkeys
+* LineBoard
+* Log
+* Macros
+* MinimizeToTray
+* QSearch
+* RecentFiles
+* SaveFile
+* Scripts
+* Scroll
+* Sessions
+* SmartSel
+* Sounds
+* SpecialChar
+* Speech
+* Stats
+* Templates
+* ToolBar
+* XBrackets
+* Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
+
 
 Many, Many Thanks to Original AkelPad Author(s) bellow !
 
-# Original source code and author can be found here:
-NOTE: The version from sourceforge can only be build maximum on VS 2005.
+- Original source code and author can be found here:
+- NOTE: The version from sourceforge can only be build maximum on VS 2005.
 
 https://sourceforge.net/projects/akelpad
 https://akelpad.sourceforge.net/en/plugins.php
