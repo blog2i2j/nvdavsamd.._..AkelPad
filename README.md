@@ -17,7 +17,7 @@ AkelPad - is an open source editor for plain text. It is designed to be a small 
 Features:
 
 * Able to run completely portable - perfect tool for a flash drive
-* Able to search down (ahead) or up (back) in document 
+* Able to search down (ahead) or up (back) in document or all opened files 
 * Auto indent mode
 * Correct pseudographics displaying
 * Document printing through Windows® standard dialogs 
@@ -27,7 +27,7 @@ Features:
 * Full support of Unicode strings on Unicode systems (Windows)
 * Insert or overwrite typing mode 
 * Large file capability - file size limited only by available memory RAM
-* Machine Reading Text to Audio
+* Machine Reading Text to Speech
 * Multi-level undo and redo 
 * Multiple language support through supplied language modules
 * Optionally remembers caret (cursor) position and code page 
@@ -36,15 +36,15 @@ Features:
 * Preview file before opening 
 * Recent file history (configurable) 
 * Remove Duplicate Lines
-* Sort Lines by string/integer ascending/descending
 * Set font, text size and color for entire document (visual only) 
 * Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI)
+* Sort Lines by string/integer ascending/descending
 * Support of any code page installed in the system 
 * Support of DOS/Windows® Unix and Apple® Mac end-of-line/newline formats 
 * Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE)
 * Supports columnar selection and editing functions (cut/copy, paste, drag-and-drop) 
 * Supports lines of any length 
-* Plugins support (syntax highlighting, code folding, auto-completion, scripts execution, keyboard macros and much, much more).
+* Plugins support (syntax highlighting, code folding, auto-completion, scripts support & execution, keyboard macros and much, much more).
 
 It already includes: (It is is already configured and bundled with plugins for optimal use !)
 
