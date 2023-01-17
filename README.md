@@ -13,14 +13,14 @@
 # AkelPad
 Most probably the best Notepad ever created !
 
-# This version is ONLY for x64 !
+This version is ONLY for x64 !
 It has been modified with code adaptation by me to be built on Visual Studio 2022 Community !
 
 
-# It includes:
+It includes:
 Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
-# And Plugins:
+And Plugins:
 Clipboard
 Coder
 ContextMenu
@@ -50,29 +50,26 @@ Templates
 ToolBar
 XBrackets
 
+Many, Many Thanks to Original AkelPad Author(s) bellow !
 
 # Original source code and author can be found here:
-# Many, Many Thanks to Original AkelPad Author(s) bellow !
-
-https://sourceforge.net/projects/akelpad
-#
-https://akelpad.sourceforge.net/en/plugins.php
 NOTE: The version from sourceforge can only be build maximum on VS 2005.
 
-#
-https://github.com/Infocatcher/AkelPad_scripts
+https://sourceforge.net/projects/akelpad
+https://akelpad.sourceforge.net/en/plugins.php
+
 NOTE:  Updated Scripts for Coder Plugin
+https://github.com/Infocatcher/AkelPad_scripts
 
-#
 https://berofusion.blogspot.com
-that will be me, at my blogspot !
+my blogspot !
 
 
-# How to build AkelPad
+How to build AkelPad
 a. Visual Studio 2022 Community
 
 or watch the video here:
 https://youtu.be/7WAcyhMcp1Y
 
-# if you want to use Lite version of Toolbar, then navigate to
+if you want to use Lite version of Toolbar, then navigate to
 akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
