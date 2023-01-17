@@ -16,38 +16,38 @@ AkelPad - is an open source editor for plain text. It is designed to be a small 
 
 Features:
 
-* Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI)
-* Large file capability - file size limited only by available memory RAM
+* Able to run completely portable - perfect tool for a flash drive
+* Able to search down (ahead) or up (back) in document 
+* Auto indent mode
+* Correct pseudographics displaying
+* Document printing through Windows® standard dialogs 
 * Drag-and-drop of selected text
-* Supports lines of any length 
-* Supports columnar selection and editing functions (cut/copy, paste, drag-and-drop) 
+* Edits and saves (with warning) "Read Only" files 
+* Enhanced search/replace of text strings, escape-sequences and also search/replace by hexadecimal code 
 * Full support of Unicode strings on Unicode systems (Windows)
-* Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE)
+* Insert or overwrite typing mode 
+* Large file capability - file size limited only by available memory RAM
+* Machine Reading Text to Audio
+* Multi-level undo and redo 
+* Multiple language support through supplied language modules
+* Optionally remembers caret (cursor) position and code page 
+* Optionally set "Read only" mode in editor to prevent accidental document alteration 
+* Optionally set AkelPad to "Always on top" (stays in view even when it loses the focus to another program) 
+* Preview file before opening 
+* Recent file history (configurable) 
+* Remove Duplicate Lines
+* Sort Lines by string/integer ascending/descending
+* Set font, text size and color for entire document (visual only) 
+* Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI)
 * Support of any code page installed in the system 
 * Support of DOS/Windows® Unix and Apple® Mac end-of-line/newline formats 
-* Preview file before opening 
-* Set font, text size and color for entire document (visual only) 
-* Optionally set AkelPad to "Always on top" (stays in view even when it loses the focus to another program) 
-* Edits and saves (with warning) "Read Only" files 
-* Optionally set "Read only" mode in editor to prevent accidental document alteration 
-* Multi-level undo and redo 
-* Auto indent mode
-* Remove Duplicate Lines
-* Machine Reading Text to Audio
-* Correct pseudographics displaying
-* Enhanced search/replace of text strings, escape-sequences and also search/replace by hexadecimal code 
-* Insert or overwrite typing mode 
-* Able to search down (ahead) or up (back) in document 
-* Optionally remembers caret (cursor) position and code page 
-* Recent file history (configurable) 
-* Document printing through Windows® standard dialogs 
-* Multiple language support through supplied language modules
-* Able to run completely portable - perfect tool for a flash drive
+* Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE)
+* Supports columnar selection and editing functions (cut/copy, paste, drag-and-drop) 
+* Supports lines of any length 
 * Plugins support (syntax highlighting, code folding, auto-completion, scripts execution, keyboard macros and much, much more).
 
-It includes:
+It already includes: (It is is already configured and bundled with plugins for optimal use !)
 
-* It is is already configured and bundled with plugins for optimal use !
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
 Plugins:
