@@ -14,7 +14,12 @@
 Most probably the best Notepad ever created !
 
 
-It include Plugins:
+It includes:
+
+* It is is already configured and bundled with plugins for optimal use !
+* Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
+
+Plugins:
 
 * Clipboard
 * Coder
@@ -44,14 +49,13 @@ It include Plugins:
 * Templates
 * ToolBar
 * XBrackets
-* Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
 
 # AkelPad & Scripts Original source(s) code(s) and author(s):
-* https://sourceforge.net/projects/akelpad                 (original AkelPad source code for Visual Studio 2005)
-* https://akelpad.sourceforge.net/en/plugins.php           (plugins source code)
-* https://github.com/Infocatcher/AkelPad_scripts           (updated scripts for coder)
-* https://berofusion.blogspot.com                          (my blogspot)
+* https://sourceforge.net/projects/akelpad        (original AkelPad source code for Visual Studio 2005)
+* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code)
+* https://github.com/Infocatcher/AkelPad_scripts  (updated scripts for coder)
+* https://berofusion.blogspot.com                 (my blogspot)
 
 
 # How to build AkelPad
