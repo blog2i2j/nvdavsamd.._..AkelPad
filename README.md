@@ -46,34 +46,18 @@ It include Plugins:
 * XBrackets
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
-#
-AkelPad & Scripts Original source(s) code(s) and author(s) can be found here:
-https://sourceforge.net/projects/akelpad
-https://akelpad.sourceforge.net/en/plugins.php
+
+# AkelPad & Scripts Original source(s) code(s) and author(s) can be found here:
+* https://sourceforge.net/projects/akelpad        (original AkelPad source code for Visual Studio 2005)
+* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code)
+* https://github.com/Infocatcher/AkelPad_scripts  (updated scripts for coder)
+* https://berofusion.blogspot.com                 (my blogspot)
 
 
-
-NOTE:  Updated Scripts for Coder Plugin
-
-https://github.com/Infocatcher/AkelPad_scripts
-
-
-my blogspot:  https://berofusion.blogspot.com
+# How to build AkelPad
+* Visual Studio 2022 Community
+* or watch the video here:    https://www.youtube.com/watch?v=7WAcyhMcp1Y
 
 
-#
-How to build AkelPad
-a. Visual Studio 2022 Community
-
-or watch the video here:
-https://www.youtube.com/watch?v=7WAcyhMcp1Y
-
-
-#
-if you want to use Lite version of Toolbar, then navigate to
-akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
-
-This version is ONLY for x64 !
-
-It has been modified with code adaptation by me to be built on Visual Studio 2022 Community !
-
+# if you want to use Lite version of Toolbar, then navigate to
+* akelpad\AkelFiles\Plugs\  and rename  ToolBar.ini_Lite  to  Toolbar.ini
