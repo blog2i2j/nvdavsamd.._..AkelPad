@@ -37,23 +37,10 @@ It includes:
 
 Plugins:
 
-* Clipboard (Work with clipboard:)
-- Capture.
-- Insert serial number.
-- Automatic copy selection.
-
-* Coder (Additional features for programming)
-- Syntax highlighting.
-- Code folding.
-- Auto-completion.
-
-* ContextMenu (Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.)
-
+* Clipboard
+* Coder
+* ContextMenu
 * Exit
-- Prompt message box on exit.
-- Send command line on exit.
-- Change ESC key action.
-
 * Explorer
 * Fonts
 * Format
@@ -82,7 +69,7 @@ Plugins:
 
 # AkelPad & Scripts Original source(s) code(s) and author(s):
 * https://sourceforge.net/projects/akelpad        (original AkelPad source code for Visual Studio 2005)
-* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code)
+* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code & definitions)
 * https://github.com/Infocatcher/AkelPad_scripts  (updated scripts for coder)
 * https://berofusion.blogspot.com                 (my blogspot)
 
