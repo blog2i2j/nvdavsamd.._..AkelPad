@@ -15,20 +15,35 @@ Most probably the best Notepad ever created !
 AkelPad - is an open source editor for plain text. It is designed to be a small and fast.
 
 Features:
-* Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI);
-* Full support of Unicode strings on Unicode systems (10/11/12);
-* Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE);
-* Support of any codepage installed in the system;
-* Support of DOS/Windows, Unix and Mac newline formats;
-* Preview file open;
-* Correct pseudographics displaying;
-* Column text selection;
-* Multi-level undo;
-* Fast search/replace text strings;
-* Remember file codepage and caret position;
-* Printing of a document and print preview;
-* Support of language modules;
-* Plugins support (syntax highlighting, folding, auto-completion, scripts execution, keyboard macros and much more).
+
+* Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI)
+* Large file capability - file size limited only by available memory RAM
+* Drag-and-drop of selected text
+* Supports lines of any length 
+* Supports columnar selection and editing functions (cut/copy, paste, drag-and-drop) 
+* Full support of Unicode strings on Unicode systems (Windows)
+* Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE)
+* Support of any code page installed in the system 
+* Support of DOS/Windows® Unix and Apple® Mac end-of-line/newline formats 
+* Preview file before opening 
+* Set font, text size and color for entire document (visual only) 
+* Optionally set AkelPad to "Always on top" (stays in view even when it loses the focus to another program) 
+* Edits and saves (with warning) "Read Only" files 
+* Optionally set "Read only" mode in editor to prevent accidental document alteration 
+* Multi-level undo and redo 
+* Auto indent mode
+* Remove Duplicate Lines
+* Machine Reading Text to Audio
+* Correct pseudographics displaying
+* Enhanced search/replace of text strings, escape-sequences and also search/replace by hexadecimal code 
+* Insert or overwrite typing mode 
+* Able to search down (ahead) or up (back) in document 
+* Optionally remembers caret (cursor) position and code page 
+* Recent file history (configurable) 
+* Document printing through Windows® standard dialogs 
+* Multiple language support through supplied language modules
+* Able to run completely portable - perfect tool for a flash drive
+* Plugins support (syntax highlighting, code folding, auto-completion, scripts execution, keyboard macros and much, much more).
 
 It includes:
 
@@ -69,7 +84,7 @@ Plugins:
 
 # AkelPad & Scripts Original source(s) code(s) and author(s):
 * https://sourceforge.net/projects/akelpad        (original AkelPad source code for Visual Studio 2005)
-* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code & definitions)
+* https://akelpad.sourceforge.net/en/plugins.php  (plugins source code + definition & description)
 * https://github.com/Infocatcher/AkelPad_scripts  (updated scripts for coder)
 * https://berofusion.blogspot.com                 (my blogspot)
 
