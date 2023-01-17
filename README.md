@@ -12,7 +12,23 @@
 
 # AkelPad
 Most probably the best Notepad ever created !
+AkelPad - is an open source editor for plain text. It is designed to be a small and fast.
 
+Features:
+* Single window (SDI), multi-window (MDI) and pseudo multi-window modes (PMDI);
+* Full support of Unicode strings on Unicode systems (10/11/12);
+* Support of Unicode codepages (UTF-8, UTF-16LE, UTF-16BE, UTF-32LE, UTF-32BE);
+* Support of any codepage installed in the system;
+* Support of DOS/Windows, Unix and Mac newline formats;
+* Preview file open;
+* Correct pseudographics displaying;
+* Column text selection;
+* Multi-level undo;
+* Fast search/replace text strings;
+* Remember file codepage and caret position;
+* Printing of a document and print preview;
+* Support of language modules;
+* Plugins support (syntax highlighting, folding, auto-completion, scripts execution, keyboard macros and much more).
 
 It includes:
 
@@ -21,10 +37,23 @@ It includes:
 
 Plugins:
 
-* Clipboard
-* Coder
-* ContextMenu
+* Clipboard (Work with clipboard:)
+- Capture.
+- Insert serial number.
+- Automatic copy selection.
+
+* Coder (Additional features for programming)
+- Syntax highlighting.
+- Code folding.
+- Auto-completion.
+
+* ContextMenu (Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.)
+
 * Exit
+- Prompt message box on exit.
+- Send command line on exit.
+- Change ESC key action.
+
 * Explorer
 * Fonts
 * Format
