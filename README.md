@@ -51,26 +51,26 @@ Features: It already includes: (already configured and bundled with plugins for 
 
 # Plugins:
 
-* Clipboard
+* **Clipboard**
   - *Capture.*
   - *Insert serial number.*
   - *Automatic copy selection.*
-* Coder
+* **Coder**
   - *1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml*
   - *Syntax highlighting.*
   - *Code folding.*
   - *Auto-completion.*
-* ContextMenu
+* **ContextMenu**
   - *Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.*
-* Exit
+* **Exit**
   - *Prompt message box on exit.*
   - *Send command line on exit.*
   - *Change ESC key action.*
-* Explorer
+* **Explorer**
   - *Displays explorer panel.*
-* Fonts
+* **Fonts**
   - *Dynamical fonts loading without installation in system.*
-* Format
+* **Format**
   - *Sorts lines by string ascending.*
   - *Sorts lines by string descending.*
   - *Sorts lines by integer ascending.*
@@ -83,63 +83,63 @@ Features: It already includes: (already configured and bundled with plugins for 
   - *Encrypt selection text.*
   - *Decrypt selection text.*
   - *Extracts links from HTML text.*
-* FullScreen
+* **FullScreen**
   - *Full screen mode.*
-* HexSel
+* **HexSel**
   - *Conversion from text to hex/decimal/octal code and vice versa.*
-* Hotkeys
+* **Hotkeys**
   - *Assign user hotkeys.*
-* LineBoard
+* **LineBoard**
   - *Shows line and column numbers.*
   - *Adds bookmarks support.*
-* Log
+* **Log**
   - *Watch logs or capture application output in real-time.*
-* Macros
+* **Macros**
   - *Records user keyboard actions and then repeats them.*
-* MinimizeToTray
+* **MinimizeToTray**
   - *Minimizes program to tray.*
-* QSearch
+* **QSearch**
   - *Enter - find next (down)*
   - *Shift+Enter - find previous (up)*
   - *Ctrl+Enter - find from file's beginning*
   - *Esc - close the dialog*
-* RecentFiles
+* **RecentFiles**
   - *Work with recent files list.*
-* SaveFile
+* **SaveFile**
   - *Autosaving.
   - *Saving Unicode files without BOM.*
-* Scripts
+* **Scripts**
   - *Scripts plugin is based on the Windows Scripting Host (WSH) engine, so you can use various Windows Component Object Model (COM) objects. For example, you can perform regular expression searches using the RegExp object, manipulate files using the FileSystemObject object, create a short-cut, manipulate the Windows Registry using the WshShell object, or work with networking functions using the WshNetwork object. Additionally, you can create and execute a script that utilizes an external application that supports Automation (such as Word and Excel).*
-* Scroll
+* **Scroll**
   - *Text autoscrolling.*
   - *Horizontal/vertical synchronization of split or MDI windows.*
   - *Set no scroll operation, like, "Select all".*
   - *Caret alignment.*
   - *Mouse wheel scrolling without focus set.*
-* Sessions
+* **Sessions**
   - *Working with projects.*
   - *Saving and restoring program MDI session.*
-* SmartSel
+* **SmartSel**
   - *HOME key goes to first non-space character.*
   - *When End key is pressed, cursor jumps to last non-space/non-tab character*
   - *Excludes last end-of-line (EOL) symbol from selected text.*
   - *When Backspace key is pressed, if from left of the caret only whitespaces, then whitespaces are removed from left to the position of the nearest first non-space character stop.*
-* Sounds
+* **Sounds**
   - *Playing sound while typing.*
-* SpecialChar
+* **SpecialChar**
   - *Displaying and highlighting of:*
     - *special characters (space, tabulation, new line, end of file, wrap, vertical tabulation, form-feed, null character);*
     - *any specified character;*
     - *indent line.*
-* Speech
+* **Speech**
   - *Plugin performs machine reading of text selection into audio.*
-* Stats
+* **Stats**
   - *Shows count of characters, words and lines in text.*
-* Templates
+* **Templates**
   - *Plugin allows to create new documents using predefined templates:*
-* ToolBar
+* **ToolBar**
   - *Displays customizable tool bar menu.*
-* XBrackets
+* **XBrackets**
   - *This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote*
 
 # for the Lite version of Toolbar, navigate to
