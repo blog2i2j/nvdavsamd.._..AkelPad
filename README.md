@@ -147,9 +147,9 @@ Features: It already includes: (already configured and bundled with plugins for 
 
 
 ## AkelPad & Scripts Original source(s) code(s) and author(s):
-  * original creator of AkelPad and original source code for Visual Studio 2005
+  * **original creator of AkelPad and original source code for Visual Studio 2005**
     - https://sourceforge.net/projects/akelpad
-  * plugins source code + definition & description
+  * **plugins source code + definition & description**
     - https://akelpad.sourceforge.net/en/plugins.php
   * updated scripts for coder
     - https://github.com/Infocatcher/AkelPad_scripts
