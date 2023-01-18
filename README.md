@@ -52,9 +52,9 @@ Features: It already includes: (already configured and bundled with plugins for 
 Plugins:
 
 * Clipboard
-Capture.
-Insert serial number.
-Automatic copy selection.
+- Capture.
+- Insert serial number.
+- Automatic copy selection.
 Coder
 1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml
 Syntax highlighting.
