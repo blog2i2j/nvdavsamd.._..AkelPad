@@ -143,16 +143,16 @@ Plugins:
   - This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote
 
 # for the Lite version of Toolbar, navigate to
-akelpad\AkelFiles\Plugs\ and rename ToolBar.ini_Lite to Toolbar.ini
+* akelpad\AkelFiles\Plugs\ and rename ToolBar.ini_Lite to Toolbar.ini
 
 
 # AkelPad & Scripts Original source(s) code(s) and author(s):
   * original creator of AkelPad and original source code for Visual Studio 2005
-  - https://sourceforge.net/projects/akelpad
+    - https://sourceforge.net/projects/akelpad
   * plugins source code + definition & description
-  - https://akelpad.sourceforge.net/en/plugins.php
+    - https://akelpad.sourceforge.net/en/plugins.php
   * updated scripts for coder
-  - https://github.com/Infocatcher/AkelPad_scripts
+    - https://github.com/Infocatcher/AkelPad_scripts
 
 # How to build AkelPad
 * Visual Studio 2022 Community
