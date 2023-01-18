@@ -153,6 +153,8 @@ Features: It already includes: (already configured and bundled with plugins for 
     - https://akelpad.sourceforge.net/en/plugins.php
   * updated scripts for coder
     - https://github.com/Infocatcher/AkelPad_scripts
+  * my blogspot source code for Visual Studio 2022 + improvements
+    - https://berofusion.blogspot.com
 
 # How to build AkelPad
 * Visual Studio 2022 Community
