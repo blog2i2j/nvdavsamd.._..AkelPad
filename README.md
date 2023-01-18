@@ -56,91 +56,91 @@ Features: It already includes: (already configured and bundled with plugins for 
   - *Insert serial number.*
   - *Automatic copy selection.*
 * Coder
-  - 1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml
-  - Syntax highlighting.
-  - Code folding.
-  - Auto-completion.
+  - *1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml*
+  - *Syntax highlighting.*
+  - *Code folding.*
+  - *Auto-completion.*
 * ContextMenu
-  - Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.
+  - *Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.*
 * Exit
-  - Prompt message box on exit.
-  - Send command line on exit.
-  - Change ESC key action.
+  - *Prompt message box on exit.*
+  - *Send command line on exit.*
+  - *Change ESC key action.*
 * Explorer
-  - Displays explorer panel.
+  - *Displays explorer panel.*
 * Fonts
-  - Dynamical fonts loading without installation in system.
+  - *Dynamical fonts loading without installation in system.*
 * Format
-  - Sorts lines by string ascending.
-  - Sorts lines by string descending.
-  - Sorts lines by integer ascending.
-  - Sorts lines by integer descending.
-  - Extracts unique lines.
-  - Extracts duplicate lines.
-  - Removes duplicate lines.
-  - Reverses line order.
-  - Inserts end-of-line characters in wrap places.
-  - Encrypt selection text.
-  - Decrypt selection text.
-  - Extracts links from HTML text.
+  - *Sorts lines by string ascending.*
+  - *Sorts lines by string descending.*
+  - *Sorts lines by integer ascending.*
+  - *Sorts lines by integer descending.*
+  - *Extracts unique lines.*
+  - *Extracts duplicate lines.*
+  - *Removes duplicate lines.*
+  - *Reverses line order.*
+  - *Inserts end-of-line characters in wrap places.*
+  - *Encrypt selection text.*
+  - *Decrypt selection text.*
+  - *Extracts links from HTML text.*
 * FullScreen
-  - Full screen mode.
+  - *Full screen mode.*
 * HexSel
-  - Conversion from text to hex/decimal/octal code and vice versa.
+  - *Conversion from text to hex/decimal/octal code and vice versa.*
 * Hotkeys
-  - Assign user hotkeys.
+  - *Assign user hotkeys.*
 * LineBoard
-  - Shows line and column numbers.
-  - Adds bookmarks support.
+  - *Shows line and column numbers.*
+  - *Adds bookmarks support.*
 * Log
-  - Watch logs or capture application output in real-time.
+  - *Watch logs or capture application output in real-time.*
 * Macros
-  - Records user keyboard actions and then repeats them.
+  - *Records user keyboard actions and then repeats them.*
 * MinimizeToTray
-  - Minimizes program to tray.
+  - *Minimizes program to tray.*
 * QSearch
-  - Enter - find next (down)
-  - Shift+Enter - find previous (up)
-  - Ctrl+Enter - find from file's beginning
-  - Esc - close the dialog
+  - *Enter - find next (down)*
+  - *Shift+Enter - find previous (up)*
+  - *Ctrl+Enter - find from file's beginning*
+  - *Esc - close the dialog*
 * RecentFiles
-  - Work with recent files list.
+  - *Work with recent files list.*
 * SaveFile
-  - Autosaving.
-  - Saving Unicode files without BOM.
+  - *Autosaving.
+  - *Saving Unicode files without BOM.*
 * Scripts
-  - Scripts plugin is based on the Windows Scripting Host (WSH) engine, so you can use various Windows Component Object Model (COM) objects. For example, you can perform regular expression searches using the RegExp object, manipulate files using the FileSystemObject object, create a short-cut, manipulate the Windows Registry using the WshShell object, or work with networking functions using the WshNetwork object. Additionally, you can create and execute a script that utilizes an external application that supports Automation (such as Word and Excel).
+  - *Scripts plugin is based on the Windows Scripting Host (WSH) engine, so you can use various Windows Component Object Model (COM) objects. For example, you can perform regular expression searches using the RegExp object, manipulate files using the FileSystemObject object, create a short-cut, manipulate the Windows Registry using the WshShell object, or work with networking functions using the WshNetwork object. Additionally, you can create and execute a script that utilizes an external application that supports Automation (such as Word and Excel).*
 * Scroll
-  - Text autoscrolling.
-  - Horizontal/vertical synchronization of split or MDI windows.
-  - Set no scroll operation, like, "Select all".
-  - Caret alignment.
-  - Mouse wheel scrolling without focus set.
+  - *Text autoscrolling.*
+  - *Horizontal/vertical synchronization of split or MDI windows.*
+  - *Set no scroll operation, like, "Select all".*
+  - *Caret alignment.*
+  - *Mouse wheel scrolling without focus set.*
 * Sessions
-  - Working with projects.
-  - Saving and restoring program MDI session.
+  - *Working with projects.*
+  - *Saving and restoring program MDI session.*
 * SmartSel
-  - HOME key goes to first non-space character.
-  - When End key is pressed, cursor jumps to last non-space/non-tab character
-  - Excludes last end-of-line (EOL) symbol from selected text.
-  - When Backspace key is pressed, if from left of the caret only whitespaces, then whitespaces are removed from left to the position of the nearest first non-space character stop.
+  - *HOME key goes to first non-space character.*
+  - *When End key is pressed, cursor jumps to last non-space/non-tab character*
+  - *Excludes last end-of-line (EOL) symbol from selected text.*
+  - *When Backspace key is pressed, if from left of the caret only whitespaces, then whitespaces are removed from left to the position of the nearest first non-space character stop.*
 * Sounds
-  - Playing sound while typing.
+  - *Playing sound while typing.*
 * SpecialChar
-  - Displaying and highlighting of:
-    - special characters (space, tabulation, new line, end of file, wrap, vertical tabulation, form-feed, null character);
-    - any specified character;
-    - indent line.
+  - *Displaying and highlighting of:*
+    - *special characters (space, tabulation, new line, end of file, wrap, vertical tabulation, form-feed, null character);*
+    - *any specified character;*
+    - *indent line.*
 * Speech
-  - Plugin performs machine reading of text selection into audio.
+  - *Plugin performs machine reading of text selection into audio.*
 * Stats
-  - Shows count of characters, words and lines in text.
+  - *Shows count of characters, words and lines in text.*
 * Templates
-  - Plugin allows to create new documents using predefined templates:
+  - *Plugin allows to create new documents using predefined templates:*
 * ToolBar
-  - Displays customizable tool bar menu.
+  - *Displays customizable tool bar menu.*
 * XBrackets
-  - This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote
+  - *This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote*
 
 # for the Lite version of Toolbar, navigate to
 * akelpad\AkelFiles\Plugs\ and rename ToolBar.ini_Lite to Toolbar.ini
