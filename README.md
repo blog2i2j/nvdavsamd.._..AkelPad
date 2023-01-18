@@ -49,12 +49,12 @@ Features: It already includes: (already configured and bundled with plugins for 
 * Plugins support (syntax highlighting, code folding, auto-completion, scripts support & execution, keyboard macros and much, much more).
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
-Plugins:
+# Plugins:
 
 * Clipboard
-  - Capture.
-  - Insert serial number.
-  - Automatic copy selection.
+  - *Capture.*
+  - *Insert serial number.*
+  - *Automatic copy selection.*
 * Coder
   - 1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml
   - Syntax highlighting.
@@ -128,9 +128,9 @@ Plugins:
   - Playing sound while typing.
 * SpecialChar
   - Displaying and highlighting of:
-  - special characters (space, tabulation, new line, end of file, wrap, vertical tabulation, form-feed, null character);
-  - any specified character;
-  - indent line.
+    - special characters (space, tabulation, new line, end of file, wrap, vertical tabulation, form-feed, null character);
+    - any specified character;
+    - indent line.
 * Speech
   - Plugin performs machine reading of text selection into audio.
 * Stats
