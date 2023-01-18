@@ -49,7 +49,7 @@ Features: It already includes: (already configured and bundled with plugins for 
 * Plugins support (syntax highlighting, code folding, auto-completion, scripts support & execution, keyboard macros and much, much more).
 * Redirect (ability to Redirect from Notepad.exe to AkelPad.exe)
 
-# Plugins:
+## Plugins:
 
 * **Clipboard**
   - *Capture.*
@@ -142,11 +142,11 @@ Features: It already includes: (already configured and bundled with plugins for 
 * **XBrackets**
   - *This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote*
 
-# for the Lite version of Toolbar, navigate to
+## for the Lite version of Toolbar, navigate to
 * akelpad\AkelFiles\Plugs\ and rename ToolBar.ini_Lite to Toolbar.ini
 
 
-# AkelPad & Scripts Original source(s) code(s) and author(s):
+## AkelPad & Scripts Original source(s) code(s) and author(s):
   * original creator of AkelPad and original source code for Visual Studio 2005
     - https://sourceforge.net/projects/akelpad
   * plugins source code + definition & description
@@ -156,6 +156,6 @@ Features: It already includes: (already configured and bundled with plugins for 
   * my blogspot source code for Visual Studio 2022 + improvements
     - https://berofusion.blogspot.com
 
-# How to build AkelPad
+## How to build AkelPad
 * Visual Studio 2022 Community
 * or watch the video here: https://www.youtube.com/watch?v=7WAcyhMcp1Y
