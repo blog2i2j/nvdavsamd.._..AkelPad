@@ -11,6 +11,7 @@
 
 
 # AkelPad
+#### source code for Visual Studio 2022 Community + improvements by me
 Most probably the best Notepad ever created !
 
 
@@ -153,7 +154,7 @@ Features: It already includes: (already configured and bundled with plugins for 
     - https://akelpad.sourceforge.net/en/plugins.php
   * updated scripts for coder
     - https://github.com/Infocatcher/AkelPad_scripts
-  * my blogspot source code for Visual Studio 2022 + improvements
+  * my blogspot source code for Visual Studio 2022 Community + improvements
     - [https://berofusion.blogspot.com](https://berofusion.blogspot.com/p/akelpad.html)
 
 ## How to build AkelPad
