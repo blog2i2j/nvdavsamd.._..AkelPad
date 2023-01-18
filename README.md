@@ -11,7 +11,6 @@
 
 
 # AkelPad
-#### source code for Visual Studio 2022 Community + improvements by me
 Most probably the best Notepad ever created !
 
 
