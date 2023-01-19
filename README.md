@@ -16,7 +16,7 @@ Most probably the best Notepad ever created !
 
 Features: It already includes: (already configured and bundled with plugins for optimal use !)
 
-* It is designed to be a small (less than 5.5 MB with plugins) fast and efficient.
+* It is designed to be a small (less than 7.07 MB with plugins) fast and efficient.
 * DPI Aware for High DPI Resolution (looks perfect on 1080p, 1440p, 4k a.s.o.
 * Able to run completely portable - perfect tool for a flash drive
 * Able to search down (ahead) or up (back) in document or all opened files
