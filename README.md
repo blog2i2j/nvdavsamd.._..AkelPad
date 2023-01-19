@@ -142,8 +142,16 @@ Features: It already includes: (already configured and bundled with plugins for 
 * **SaveFile**
   - *Autosaving.
   - *Saving Unicode files without BOM.*
-* **Scripts**
+* **Scripts** 
   - *Scripts plugin is based on the Windows Scripting Host (WSH) engine, so you can use various Windows Component Object Model (COM) objects. For example, you can perform regular expression searches using the RegExp object, manipulate files using the FileSystemObject object, create a short-cut, manipulate the Windows Registry using the WshShell object, or work with networking functions using the WshNetwork object. Additionally, you can create and execute a script that utilizes an external application that supports Automation (such as Word and Excel).*
+  - *crypt.js*
+    - *Encrypt/decrypt text using AES-256 or/and Blowfish*
+  - *InsertDate.js*
+    - *Insert current date*
+  - *jsBeautifier.js*
+    - *JavaScript unpacker and beautifier*
+  - *measuresConverter.js*
+    - *Convert measures (internal) and currency (used cached data from exchange-rates.org, fxexchangerate.com and bitcoincharts.com)* 
 * **Scroll**
   - *Text autoscrolling.*
   - *Horizontal/vertical synchronization of split or MDI windows.*
@@ -221,3 +229,28 @@ Features: It already includes: (already configured and bundled with plugins for 
 ## How to build AkelPad
 * Visual Studio 2022 Community
 * or watch the video here: https://www.youtube.com/watch?v=7WAcyhMcp1Y
+
+
+
+  - *crypt.js*
+    - *Encrypt/decrypt text using AES-256 or/and Blowfish*
+    ![encrypt0](https://user-images.githubusercontent.com/122004809/213397806-a07cf01f-46b3-4230-94a9-d8d8e71124d5.jpg)
+    ![encrypt1](https://user-images.githubusercontent.com/122004809/213397813-e2bc8266-dff8-4c41-ae4a-046dfd96f9a0.jpg)
+
+
+  - *InsertDate.js*
+    - *Insert current date*
+    ![scripts](https://user-images.githubusercontent.com/122004809/213397995-fc1c9fd2-957f-43b6-8b21-e5bc8a20da43.jpg)
+
+    
+  - *jsBeautifier.js*
+    - *JavaScript unpacker and beautifier*
+    ![jsbeautifier](https://user-images.githubusercontent.com/122004809/213398097-9436f353-04bc-4697-a46c-521085c2b242.jpg)
+    ![jsbeautifier1](https://user-images.githubusercontent.com/122004809/213398157-1d623f8a-d88b-462d-b8ef-8fa143bdbf84.jpg)
+
+    
+  - *measuresConverter.js*
+    - *Convert measures (internal) and currency (used cached data from exchange-rates.org, fxexchangerate.com and bitcoincharts.com)* 
+    ![measureconvertor](https://user-images.githubusercontent.com/122004809/213398248-694ba227-de09-4d54-9226-fef2a9e28730.jpg)
+
+    
