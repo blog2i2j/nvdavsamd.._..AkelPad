@@ -56,10 +56,44 @@ Features: It already includes: (already configured and bundled with plugins for 
   - *Insert serial number.*
   - *Automatic copy selection.*
 * **Coder**
-  - *1s, asm, au3, bat, cpp, cs, css, html, ini, inno, js, json, lua, nsis, pascal, perl, php, python, rc, rtf, sh, smali, sql, vbs, xml*
-  - *Syntax highlighting.*
-  - *Code folding.*
   - *Auto-completion.*
+  - *Code folding.*
+  - *Syntax highlighting.*
+    - *1s = 1s, 1c, 1с*
+    - *_makefile = makefile, ,GNUmakefile, ,Makefile*
+    - *ahk = ahk*
+    - *asm = asm*
+    - *au3 = au3*
+    - *bat = bat, cmd*
+    - *cpp = cpp, cxx, c, h, hh, hpp, hxx, c++, cc, cp, cu, i, ii, java, idl, tlh, tli*
+    - *cs = cs, csx*
+    - *css = css, less*
+    - *fb2 = fb2, fbd*
+    - *html = html, htm, hta, asp, shtml, xhtml, php, php3*
+    - *ini = ini, inf, reg, url, properties, ipr, pls*
+    - *inno = iss*
+    - *js = js*
+    - *json = json*
+    - *lng = lng*
+    - *lua = lua*
+    - *msg = msg, eml, mht, mhtml*
+    - *nsis = nsi, nsh*
+    - *pascal = dpr, pas*
+    - *perl = pl, pm, plx, prl*
+    - *php = php_for_coder*
+    - *ps1 = ps1*
+    - *python = py, pyw*
+    - *qsfndall_tofile = qsfndall_tofile*
+    - *qsfndall_tolog = qsfndall_tolog*
+    - *rc = rc*
+    - *rtf = rtf*
+    - *rust = rs*
+    - *sh = sh, run*
+    - *smali = smali*
+    - *sql = sql*
+    - *vbs = bas, vbs, vb, vb5, wbt, frm*
+    - *winbuilder = script, project*
+    - *xml = xml, axl, dxl, kml, manifest, msc, ndl, rdf, resx, rss, svg, user, wsdl, xaml, xmp, xsd, xsl, xslt, xul, vcproj, vcxproj, csproj, vbproj, vdproj, wxi, wxl, wxs, wixobj, wixout, wixlib, wixpdb, wixmsp, wixmst, lpi, dproj.local, dproj, groupproj, tvsconfig, plist*
 * **ContextMenu**
   - *Configure main menu and context menu for edit control, MDI tabs, hyperlinks and recent files.*
 * **Exit**
@@ -141,6 +175,34 @@ Features: It already includes: (already configured and bundled with plugins for 
   - *Displays customizable tool bar menu.*
 * **XBrackets**
   - *This plugin allows to autocomplete brackets ([{""}]) i.e. it inserts corresponding right bracket when the left bracket is typed. The plugin uses "smart" autocompletion: - next character is analysed for ([{ brackets - next & previous characters are analysed for " quote*
+
+
+## Languages:
+
+* **Belorussian**
+* **Brazilian**
+* **Catalan**
+* **Chinese (Simplified)**
+* **Chinese (Traditional)**
+* **Czech**
+* **Dutch**
+* **English**
+* **Finnish**
+* **French**
+* **German**
+* **Greek**
+* **Hungarian**
+* **Italian**
+* **Japanese**
+* **Korean**
+* **Polish**
+* **Romanian**
+* **Russian**
+* **Slovak**
+* **Spanish**
+* **Ukrainian**
+* **Uzbek**
+
 
 ## for the Lite version of Toolbar, navigate to
 * akelpad\AkelFiles\Plugs\ and rename ToolBar.ini_Lite to Toolbar.ini
