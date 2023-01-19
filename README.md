@@ -242,7 +242,7 @@ Features: It already includes: (already configured and bundled with plugins for 
 #
   - *InsertDate.js*
     - *Insert current date*
-    ![scripts](https://user-images.githubusercontent.com/122004809/213397995-fc1c9fd2-957f-43b6-8b21-e5bc8a20da43.jpg)
+    ![insertdate](https://user-images.githubusercontent.com/122004809/213400099-3fd36ad3-6d0b-4824-910f-0d1c8b10fe54.jpg)
 
 #
   - *jsBeautifier.js*
